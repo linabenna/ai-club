@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ai-club/static/css/main.250ba6ac.css",
+    "main.js": "/ai-club/static/js/main.8cd51892.js",
+    "static/media/3.png": "/ai-club/static/media/3.9b4c11023da352b0a810.png",
+    "static/media/backgroundVideo.mp4": "/ai-club/static/media/backgroundVideo.6a94b8b1f33783ac2e1f.mp4",
+    "static/media/bckgrndSide.png": "/ai-club/static/media/bckgrndSide.56a465701c2bcdbf1d65.png",
+    "static/media/2.png": "/ai-club/static/media/2.928718b3c18e95ed084f.png",
+    "static/media/ai-logo-2.png": "/ai-club/static/media/ai-logo-2.d6d16fe25c83a91627d9.png",
+    "static/media/1.png": "/ai-club/static/media/1.98b35466443ec793e31f.png",
+    "index.html": "/ai-club/index.html",
+    "main.250ba6ac.css.map": "/ai-club/static/css/main.250ba6ac.css.map",
+    "main.8cd51892.js.map": "/ai-club/static/js/main.8cd51892.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.250ba6ac.css",
+    "static/js/main.8cd51892.js"
+  ]
+}
